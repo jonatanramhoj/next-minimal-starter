@@ -1,6 +1,6 @@
 # Next Minimal Starter
 
-Minimal [Next.js 12+](https://nextjs.org/) boilerplate loaded with a handful of useful packages to help get our projects of the ground as fast as possible ⚡️
+Minimal [Next.js 12+](https://nextjs.org/) starter loaded with a few useful packages to help get our projects of the ground as fast as possible ⚡️
 
 - [ESlint](https://eslint.org/) - Helps with coding best practises and keeping bugs away.
 - [Prettier](https://prettier.io/) - Let's us focus on coding instead of indentation etc.
@@ -9,7 +9,7 @@ Minimal [Next.js 12+](https://nextjs.org/) boilerplate loaded with a handful of 
 - [SWR](https://swr.vercel.app/) - Fetch/Axios/GraphQL wrapper that supercharges data fetching.
 - [Next SEO](https://github.com/garmeeh/next-seo) - Makes handling SEO in the projects easier.
 
-## Now witness the firepower of this fully armed and operational battle station
+## Getting Started
 
 To get started, clone the project and run `npm install && npm run dev`
 
