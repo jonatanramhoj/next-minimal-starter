@@ -1,4 +1,4 @@
-# Next starter
+# Next Minimal Starter
 
 Minimal [Next.js 12+](https://nextjs.org/) boilerplate loaded with a handful of useful packages to help get our projects of the ground as fast as possible ⚡️
 
